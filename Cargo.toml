@@ -1,0 +1,2 @@
+[workspace]
+members = ["sequential_levenshtein", "parallel_levenshtein"]
